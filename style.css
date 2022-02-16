@@ -5,10 +5,11 @@ body{
     margin:0;
     padding:0;
 }
-header{
-    position: absolute;
-    background-color: #000;
-    width:100%;
-    color:black;
-    height: 10px;
-}
+/* Header/Logo Title */
+.header {
+    padding: 10px;
+    text-align: right;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+  }
